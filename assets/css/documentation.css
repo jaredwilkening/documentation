@@ -1,0 +1,32 @@
+.sticky {
+	position: fixed;
+}
+
+.active {
+	display: block;
+}
+
+.nav-list > .nav-list {
+	padding-right: 0px;
+}
+
+.nav-list > .nav-list > .nav-list {
+	display: none;
+}
+
+.nav-h1 {
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 24px;
+}
+
+.nav-h2 {
+	font-weight: bold;
+	font-size: 12px;
+	
+}
+
+.nav-h3 {
+	font-size: 12px;
+
+}
